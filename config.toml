@@ -311,8 +311,8 @@ enableGitInfo = false
   weight = 3
 
 [[menu.main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Talks"
+  url = "https://blissful-mayer-6846b3.netlify.com/"
   weight = 4
 
 [[menu.main]]
